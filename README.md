@@ -3,7 +3,7 @@
 🚀A lightweight Flask + SQLite CRUD API for practicing with Postman and Python (PyCharm).
 I created this Project to do everything from scratch: populate DB with data,
 and learn how to design my own REST API. I can populate DB with data,
-practice API with Postman and Python <requets> module🚀
+practice API with Postman and Python **requets** module🚀
 
 
 🛠 Getting Started
